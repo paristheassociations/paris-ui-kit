@@ -1,0 +1,23 @@
+1. Create a project folder
+2. Copy and paste the /assets and /src folder into your project
+3. Create an HTML File
+The structure of an HTML File is 
+<!DOCTYPE html>  
+<html>  
+<head>  
+<title>!DOCTYPE tag</title>  
+<link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon" />
+
+<link rel="stylesheet" href="assets/css/tailwind.css" />
+    
+<script defer src="assets/js/alpine.min.js"></script>
+</head>  
+<body>  
+Your HTML code goes here
+</body>  
+</html>  
+
+4. Open the index.html file to copy the HTML UI code
+5. Paste it in your project.
+
+* Just copy & paste, done!
